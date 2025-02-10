@@ -52,14 +52,6 @@ venv\Scripts\activate     # Для Windows
 pip install -r requirements.txt
 ```
 
-### 3️⃣ **Настраиваем `.env` файл**
-Создайте `.env` в корне проекта и добавьте туда ваш **Telegram Bot Token** и API-ключи:
-```
-BOT_TOKEN=your_telegram_bot_token
-MOEX_API_KEY=your_moex_api_key
-DB_PATH=database/finch.db
-```
-
 ### 4️⃣ **Запускаем бота**
 ```bash
 python bot.py
@@ -90,6 +82,5 @@ python bot.py
 ---
 
 ## 🎯 **Автор и контакты**
-Разработчик: [Ваше Имя]
-Связь: your.email@example.com
-
+Разработчик: Andrey Pisarevsky
+Связь: pisarevskiy1977@gmail.com
