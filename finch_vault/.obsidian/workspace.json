@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "bb96a9030d0dfa08",
+    "type": "split",
+    "children": [
+      {
+        "id": "971701c42c3f29ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21abeb5883c04504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/ROADMAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROADMAP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1e6e0f724932add",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc77ded03429012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b27f71e6df7140bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bae33e48f2dd15b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5036b7866828d7a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "right": {
+    "id": "c46b4ff1e2fc155b",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e92e8b2222138b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a8ea733135d5fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Проектирование интерфейса/Структура команд и навигации/Общее описание команд.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Общее описание команд"
+            }
+          },
+          {
+            "id": "663e4d5fb9c5a16d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Проектирование интерфейса/Структура команд и навигации/Общее описание команд.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Общее описание команд"
+            }
+          },
+          {
+            "id": "cff071566bbcea84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd1d3d6f6bc6d130",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Проектирование интерфейса/Структура команд и навигации/Общее описание команд.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Общее описание команд"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "21abeb5883c04504",
+  "lastOpenFiles": [
+    "Documentation/NOTES.md",
+    "Documentation/ROADMAP.md",
+    "Documentation/TODO.md",
+    "Проектирование интерфейса/Структура команд и навигации/Команда Risk Profile.md",
+    "Documentation/CHANGELOG.md",
+    "Проектирование интерфейса/Структура команд и навигации/Общее описание команд.md",
+    "Проектирование интерфейса/Структура команд и навигации/Команда Start.md",
+    "Требования и план реализации.md",
+    "Функциональность бота/2. Риск-профиль.md",
+    "Функциональность бота/1. Цели инвестирования.md",
+    "Welcome-описание проекта.md",
+    "Функциональность бота/5. Новости и аналитика.md",
+    "Функциональность бота/4. Отчеты о состоянии портфеля.md",
+    "Функциональность бота/3. Оптимальный портфель.md",
+    "Проектирование интерфейса/Диалоговые окна.md",
+    "Documentation",
+    "Проектирование интерфейса/Структура команд и навигации/Команда Portfolio.md",
+    "Проектирование интерфейса/Пожелание по интерфейсу.md",
+    "Проектирование интерфейса/Регулярные отчеты и новости.md",
+    "Проектирование интерфейса/Основные этапы взаимодействия с пользователем.md",
+    "Проектирование интерфейса/Структура команд и навигации/Команда Help.md",
+    "Функциональность бота/Риск-профиль 1.md",
+    "Untitled.md",
+    "Проектирование интерфейса/Структура команд и навигации/Команда Report.md",
+    "Проектирование интерфейса/Структура команд и навигации/Команда Feedback.md",
+    "Проектирование интерфейса/Структура команд и навигации/Команда Settings.md",
+    "Проектирование интерфейса/Структура команд и навигации/Команда News.md",
+    "Проектирование интерфейса/Структура команд и навигации",
+    "Проектирование интерфейса",
+    "~$вости и аналитика.docx",
+    "~$четы о состоянии портфеля.docx",
+    "~$тимальный портфель.docx",
+    "~$ск-профиль.docx",
+    "~$ли инвестирования.docx",
+    "Функциональность бота",
+    "~$АН РЕАЛИЗАЦИИ.docx",
+    "Untitled.canvas"
+  ]
+}
